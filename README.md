@@ -4,7 +4,7 @@
 2) Создаем проект в PyCharm
 3) Загружаем в проект папку usage из Git-репозитория
 4) Подгружаем файл из облачной папки по ссылке https://drive.google.com/drive/folders/13x1p-OYUol9AmvkfYqleNjyy0IFYYo0_?usp=sharing и добавляем его в usage/RetinaFace_weights  
-5) Запускаем файл video_interface35.py
+5) Запускаем файл video_interface45.py
 6) Вводим код доступа: 123456
 7) Работаем с программой
 8) Если нужны настройки: пароль 654321
